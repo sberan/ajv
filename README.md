@@ -1209,6 +1209,7 @@ Properties of `params` object in errors depend on the keyword that failed valida
 - [electron-builder](https://github.com/electron-userland/electron-builder) - a solution to package and build a ready for distribution Electron app 
 - [addons-linter](https://github.com/mozilla/addons-linter) - Mozilla Add-ons Linter
 - [gh-pages-generator](https://github.com/epoberezkin/gh-pages-generator) - multi-page site generator converting markdown files to GitHub pages
+- [typed-json-schema](https://github.com/sberan/typed-json-schema) - type-safe json-schema builder and validator for TypeScript
 
 
 ## Tests
